@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.book{
+    background:linear-gradient(to right,rgb(89, 89, 218),rgb(239, 109, 39));
+    width: 75%;
+    color: black;
+}
+.icon i{
+    margin-left: 5px;
+}
+footer{
+    margin-top: -100px;
+}
